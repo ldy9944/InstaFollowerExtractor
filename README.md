@@ -11,9 +11,9 @@ This Python script allows you to safely extract followers from Instagram while s
 ### Required Libraries
 You can install the required libraries by running the following command:
 
-\```bash
+\```bash```
 pip install -r requirements.txt
-\```
+\
 
 The list of required libraries is also available in `requirements.txt`.
 
